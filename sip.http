@@ -1,0 +1,31 @@
+###
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+        "nome": "marcelo",
+        "saldo": 1200
+
+}
+###
+POST http://localhost:3000/api/payment/128205
+Content-Type: application/json
+
+{
+        "valor": 200
+
+}
+
+###
+GET http://localhost:3000/api/users/nome/david
+###
+GET http://localhost:3000/api/payment/david
+###
+GET http://localhost:3000/api/users
+###
+GET http://localhost:3000/api/payments
+###
+GET http://localhost:3000/api/users/128205
+
+###
+DELETE http://localhost:3000/api/users/clear
