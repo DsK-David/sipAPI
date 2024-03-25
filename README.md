@@ -114,7 +114,6 @@ Contribuições são bem-vindas! Aqui estão algumas dicas sobre como você pode
 
 4. **Documentação:** Melhorias na documentação são sempre bem-vindas. Se você acha que a documentação pode ser melhorada ou está faltando informações, sinta-se à vontade para contribuir.
 
-Antes de contribuir, certifique-se de ler o arquivo `CONTRIBUTING.md` (se disponível) para obter diretrizes específicas sobre como contribuir para o projeto.
 ## Considerações
 
 Esta API é projetada para ser simples e eficiente, permitindo a gestão de usuários e transferências de forma clara e direta. A documentação aqui apresentada fornece uma visão geral dos endpoints disponíveis, facilitando a integração com outras aplicações ou serviços.
